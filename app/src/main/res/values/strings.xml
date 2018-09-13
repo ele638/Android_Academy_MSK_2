@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="edit_text_hint">Type your message here</string>
+    <string name="preview_btn_text">PREVIEW</string>
+    <string name="empty_text_value">Empty Text</string>
+    <string name="email_btn_text">EMAIL</string>
+</resources>
